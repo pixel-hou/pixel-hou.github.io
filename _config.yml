@@ -1,11 +1,11 @@
 # Site settings
 title: Hou Blog
 SEOTitle: 后的博客 | Hou Blog
-header-img: img/home-bg.jpg
+header-img: img/bg-pixel1.jpg
 email: 2218613821@qq.com
-description: "这里是 @Hou后 的个人博客，与你一起发现更大的世界 | 要做一个有 swag 的程序员"
-keyword: "黄玄, Hux黄玄, Hux, 鬼栈, huxpro, @huxpro, 黄玄的博客, Hux Blog, 博客, 个人网站, 互联网, Web, JavaScript, React, React Native, 前端, 设计"
-url: "https://huangxuan.me" # your host, for absolute URL
+description: "这里是 @Hou后 的个人博客，坚持热爱 | 更好的生活"
+keyword: "后, Hou, pixel, game, 博客, 个人网站, 互联网, Web, JavaScript, React, React Native, 前端, 设计"
+url: "https://pixel-hou.github.io/" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -13,11 +13,11 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username: huxpro
-zhihu_username: huxpro
-github_username: huxpro
-twitter_username: huxpro
-#facebook_username:  huxpro
+weibo_username: pixel-hou
+zhihu_username: pixel-hou
+github_username: pixel-hou
+twitter_username: pixel-hou
+#facebook_username:  pixel-hou
 #linkedin_username:  firstname-lastname-idxxxx
 
 # Build settings
